@@ -12,6 +12,10 @@ this list was compiled after decent consultation
 - Don't fluke ED or Workshop classes
 - Don't leave the campus after 6
 - Complain and write as many letters as you can to change and improve the condition of food, hostel, classrooms, if you seek support, we will support you.
+- Try not to pick up region-based conflicts/fights.
+- Considering the current situation in Manipur, try not to roam around alone.In case you have to, share your location with someone, just as a precautionary measure.
+- If you feel that some of the senior teachers/pHd scholars, are behaving in an incohorent fashion, try talking to a trusted senior(before taking any particular action)
+- Avoid conflicts with hostel guards, supervisors, wardens.You never know when you need them by your side.
 
 
 
