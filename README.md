@@ -16,7 +16,6 @@ this list was compiled after decent consultation
 - Considering the current situation in Manipur, try not to roam around alone.In case you have to, share your location with someone, just as a precautionary measure.
 - If you feel that some of the senior teachers/pHd scholars, are behaving in an incohorent fashion, try talking to a trusted senior(before taking any particular action)
 - Avoid conflicts with hostel guards, supervisors, wardens.You never know when you need them by your side.
-- Do not be overly rash/unruly in front of your teachers, attend your classes(especially HS-101 class) in a presentable manner, because in the end, your internals and cgpa is in their hands.
 
 
 
