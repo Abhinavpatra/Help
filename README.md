@@ -40,6 +40,8 @@ RIMS: some seniors play basketball there.
 ### Notes
  I will link below a drive with all the notes and previous papers from our 1st year batch and the year before that, none of them were mine, but I still read and passed from it, thank Amey Zade (3rd),(2nd) Adarsh chaubey, Garima Katiyar, Shashank Bhoyar, Praveen Yadav for their contributins in making such impeccable notes.
 
+Link: https://drive.google.com/drive/folders/1T3qRfr5Zmriw09_QJ87mj84yKYs_izE4
+
 
 # This section is for coding enthusiasts
 - You will have a lott of free time, explore as many fields as you can 
@@ -57,6 +59,18 @@ RIMS: some seniors play basketball there.
 - Use AI Tools, use it to learn and understand concepts that you find difficult, i often use the prompt : "Explain this topic to me as if I am a 14 year old", or have engaging conversations with the AI to resolve your doubts and queries, and if that fails i have a linkedin which is always online.
 - Don't pay for Internships, anyone or anything asks you to pay or share posts on wp groups, is not a real internship, they are just selling you a cheap course at a marked up price, i would kill myself but do those, do it at your own risk.
 - if someone tells you that they will start "coding" from next year, ignore them, and focus on your own thing. They are never starting.
+- Plan, fail and remake projects with your friends with similar interests, even if they are from school.
+
+
+
 
  Just have discipline, first few weeks will decide most of your college life, it is like a pattern which simply repeat itself over the course of the next 4 years.When you read this, You will probably still be reeling from the shock of seeing this college, so throw yourself into one of these topics or just go for a run, it helps, you can join me. Try to focus on things that matter and decide how much fun(scrolling reels) you want to have. 
+
+for all: freecodecamp;
+
+Full-stack/Front-end/Backend: Chai aur code(Hitesh choudhary), Harkirat singh; Look into Figma and UI.UX.
+DSA: Striver sheet, Codehelp, CodeWithHarry, 
+Web3: Codeater
+Projects: Clever Programmer
+Cybersecurity: Hak5
 
