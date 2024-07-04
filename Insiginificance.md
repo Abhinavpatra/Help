@@ -21,3 +21,4 @@ and a hundred more other things that people reading this have said to themselves
 How does that help?
 The only battle we have is against our limitations, and what we do about it.
 It is only when we identify the internal weakness as the vile thing that it is, that we can actually defeat our true demons, and instead of fighting, holding grudges and projecting our own insecurities. We can see people as economic units with their own interests, weaknesses, strengths, goals and desires. Accordingly we can align ourselves with people who match certain points and interests of our own, for mutual growth and sustainability.
+and if you don't wanna hey, who am i to tell you you're wrong.
