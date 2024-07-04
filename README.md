@@ -27,7 +27,7 @@ this list was compiled after decent consultation
 ## Food & Beverages
  Shirja, canteens, the shops right outside our college, and a samosa shop infront of shirja.
 
-## places
+## Places
 30-40 rupees from NIT to Ima market. There is a decent north indian based shop there, which makes nice pav bhaji and other things, worth going for veg birthdays and other events.
 
 kangla fort: to take pictures and hang around
